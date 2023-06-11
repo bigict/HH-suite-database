@@ -1,5 +1,5 @@
 # HH-suite-database
-#安装依赖项，路径请自行修改
+#安装work、work2中的依赖项，路径请自行修改
 mkdir ~/kangyufei/work/MMseqs2/build
 cd ~/kangyufei/work/MMseqs2/build
 chmod a+x ../cmake/checkshell.sh
